@@ -1,0 +1,70 @@
+
+a.innavi		  {text-decoration: none; font-family: ARIAL; font-size: 8pt; color: #FFFFFF; font-weight:bold;}
+a.innavi:link     {text-decoration: none; font-family: ARIAL; font-size: 8pt; color: #FFFFFF; font-weight:bold;}
+a.innavi:visited  {text-decoration: none; font-family: ARIAL; font-size: 8pt; color: #FFFFFF; font-weight:bold;} 
+a.innavi:hover    {text-decoration: none; font-family: ARIAL; font-size: 8pt ;color: #FFFFFF; font-weight:bold;}
+a.innavi:active   {text-decoration: none; font-family: ARIAL; font-size: 8pt; color: #FFFFFF; font-weight:bold;}
+
+html, body
+{
+	width: 100%;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#FFFFFF;
+	height: 100%;
+	background-color:#000000;
+	padding:0;
+	text-align : center;
+	margin : 0;
+               overflow-x: hidden;
+               overflow-y: hidden;	
+}
+
+p
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#FFFFFF;
+	background-color:#000000;
+	padding:0;
+	text-align : left;
+	margin : 0;
+               overflow-x: hidden;
+               overflow-y: hidden;	
+}
+
+img.pic {
+    border-color: #FFFFFF;
+}
+
+
+<!-- formulare -->
+
+option,input,textarea,select {
+				font-family: ARIAL; 
+				font-size : 11px; 
+				border-right :#FFFFFF solid 1px; 
+				border-left :#FFFFFF solid 1px; 
+				border-bottom :#FFFFFF solid 1px; 
+				border-top :#FFFFFF solid 1px; 
+				background : #cc9933;
+}
+textarea              {
+				font-family: ARIAL; 
+				font-size : 11px; 
+				border-right :#FFFFFF solid 1px; 
+				border-left :#FFFFFF solid 1px; 
+				border-bottom :#FFFFFF solid 1px; 
+				border-top :#FFFFFF solid 1px; 
+				background : #cc9933;
+}
+
+
+<!-- content-elemente -->
+
+.headline {font-family: ARIAL; font-size: 14pt; color: #FFFFFF; font-weight:normal;}
+div.error {font-family: ARIAL; font-size: 8pt; color: #000000; font-weight:bold;}
+.content1 {font-family: ARIAL; font-size: 8pt; color: #000000; font-weight:normal;}
+.gray {font-family: ARIAL; font-size: 8pt; color: #999999; font-weight:normal;}
+
+

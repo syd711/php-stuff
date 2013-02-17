@@ -1,0 +1,70 @@
+#l1 {
+	position: absolute; 
+	z-index:100; 
+	left: -300px; 
+	top:-300px; 
+	width:300px; 
+	padding:0px; 
+	border: 0px solid black; 
+	background-color : #000000;
+	color: black;
+	visibility: hidden;
+	overflow-x: hidden;
+        overflow-y: hidden;
+}
+#l2 {
+	position: absolute; 
+	z-index:100; 
+	left: -300px; 
+	top:-300px; 
+	width:300px; 
+	padding:0px; 
+	border: 0px solid black; 
+	background-color : #000000;
+	color: black;
+	visibility: hidden;
+	overflow-x: hidden;
+        overflow-y: hidden;	
+}
+#l3 {
+	position: absolute; 
+	z-index:100; 
+	left: -300px; 
+	top:-300px; 
+	width:300px; 
+	padding:0px; 
+	border: 0px solid black; 
+	background-color : #000000;
+	color: black;
+	visibility: hidden;
+	overflow-x: hidden;
+        overflow-y: hidden;
+}
+#l4 {
+	position: absolute; 
+	z-index:100; 
+	left: -300px; 
+	top:-300px; 
+	width:300px; 
+	padding:0px; 
+	border: 0px solid black; 
+	background-color : #000000;
+	color: black;
+	visibility: hidden;
+	overflow-x: hidden;
+        overflow-y: hidden;
+}
+#l5 {
+	position: absolute; 
+	z-index:100; 
+	left: -300px; 
+	top:-300px; 
+	width:300px; 
+	padding:0px; 
+	border: 0px solid black; 
+	background-color : #000000;
+	color: black;
+	visibility: hidden;
+	overflow-x: hidden;
+        overflow-y: hidden;
+}

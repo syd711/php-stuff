@@ -1,0 +1,227 @@
+/**
+			
+			Frametexx IT Consulting CSS2 Style-Sheet 
+			http://www.frametexx.com/css/contactform.css
+			
+			sm - 22-02-2006  - 'contains styles for contact form' 
+			
+*/
+
+
+#contact {
+	width: 549px;
+	vertical-align: top;
+	text-align: left;
+	font-size: 12px;	
+	background-color:#FFFFFF;
+	padding : 0px 0px 50px 0px;
+}
+
+#contact td {
+	padding : 0px;
+	margin: 10px 10px 10px 10px;
+}
+
+#contact p {
+	margin : 5px 50px 5px 50px;
+}
+
+#contact p.error {
+	color : #FF6600;
+	font-size : 12px;
+	font-weight : bold;
+	padding-bottom: 20px;
+}
+
+#contact p.info {
+	color : #000000;
+	font-size : 10px;
+	text-align : right;
+	margin : 0px 50px 0px 30px;
+}
+
+#contact input {
+	font-size: 12px;	
+	padding : 2px;
+	margin : 2px;
+}
+
+#contact h1 {
+	padding : 0px 0px 3px 0px;
+	margin : 7px 10px 10px 10px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	color : #000000;
+	font-weight : normal;
+	border-bottom-color : Black;
+	border-bottom-style : dotted;
+	border-bottom-width : 1px;
+}
+
+#contact h2 {
+	font-size: 12px;	
+	padding : 0px 0px 3px 0px;
+	margin : 15px 10px 10px 10px;
+	color : #000000;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border-bottom-color : Black;
+	border-bottom-style : dotted;
+	border-bottom-width : 1px;
+	font-weight : bold;
+}
+
+#contact h3 {
+	font-size: 12px;
+	padding : 0px 0px 0px 0px;
+	margin : 15px 10px 0px 10px;
+	color : #000000;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+}
+
+#contact div.image {
+	text-align:center;
+	padding: 0;
+	margin: 0;
+}
+
+#contact img {
+	padding: 0;
+	margin: 5px 5px 5px 5px;
+	border:none;
+}
+
+#contact a.positionlink {
+	text-decoration : none;
+	font-size:10px;
+	font-weight : bolder;
+	color: #778888;
+}
+
+#contact p.positionlink {
+	font-weight : bolder;
+	color: #778888;
+	font-size:8px;
+}
+
+#contact table {
+	width: 450px;
+	padding : 0px;
+	margin: 10px 10px 10px 50px;
+}
+
+/*
+	
+	contactform
+
+*/
+
+#contactform p {
+	font-size: 10px;	
+	padding : 2px;
+	margin : 2px;
+}
+
+#contactform td {
+	vertical-align : top;
+}
+
+#contactform input.error {
+	border-color : #FF6600;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform select.error {
+	background-color : #FF6600;
+}
+
+#contactform input {
+	width:300px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin : 3px 5px 3px 5px;
+	padding :1px;
+	border-color : #728784;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform select {
+	width:300px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin : 3px 5px 3px 5px;
+	padding :1px;
+	border-color : #728784;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform textarea {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin : 3px 5px 3px 5px;
+	padding :1px;
+	width:300px;
+	border-color : #728784;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform textarea.error {
+	border-color : #FF6600;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform input.firstname {
+	margin : 3px 5px 3px 5px;
+	width:140px;
+}
+
+#contactform input.firstname_error {
+	margin : 3px 5px 3px 5px;
+	width:140px;
+	border-color : #FF6600;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform input.title {
+	width:140px;
+}
+
+#contactform input.surname {
+	margin : 3px 5px 3px 5px;
+	width:300px;
+}
+
+#contactform input.surname_error {
+	margin : 3px 5px 3px 5px;
+	width:300px;
+	border-color : #FF6600;
+	border-style : solid;
+	border-width : 1px;
+}
+
+#contactform input.zipcode {
+	width:100px;
+}
+
+#contactform input.city {
+	margin : 3px 5px 3px 15px;
+	width:175px;
+}
+
+#contactform input.radio {
+	width:20px;
+	border : none;
+}
+
+#contactform input.button {
+	background-color : #EEEEEE;
+	width:130px;
+}
+
+
