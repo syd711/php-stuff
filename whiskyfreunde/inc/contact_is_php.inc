@@ -45,7 +45,7 @@
 						//$header .= "Reply-To: " . $from . "\n"; 
 						//$header .= "Bcc: $email_to_bcc\n"; 
 						$header .= "X-Mailer: PHP/" . phpversion(). "\n";          
-						$header .= "X-Sender-IP: website@frametexx.com\n"; 
+						$header .= "X-Sender-IP: website@test.com\n"; 
 						$header .= "Content-Type: text/html"; 
 						$subject 	= "Kontaktmail von der Seite www.test.com";
 						$emailBody  = "Name: " . $name;
