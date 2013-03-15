@@ -52,7 +52,7 @@
 						$emailBody  = $emailBody . "<br>E-Mail: " . $email;
 						$emailBody	= $emailBody . "<br>Inhalt der Mail:\n<br>";
 						$emailBody  = $emailBody . $info;
-						mail("matthias.faust@frametexx.com",$subject,$emailBody,$header);
+						mail("matthias.faust@test.com",$subject,$emailBody,$header);
 						echo "<meta http-equiv=\"refresh\" content=\"0; URL=index.php?page=contact&message=1\">";  
 					}
 					else echo $error . "<br>&nbsp;<br>";
