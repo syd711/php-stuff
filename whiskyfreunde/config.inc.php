@@ -1,5 +1,5 @@
 <?php
 	// login for edit mode
-	define( LOGIN, "talsiker" );
-	define( PASSWORD, "talsiker" );
+	define( LOGIN, "" );
+	define( PASSWORD, "" );
 ?>
