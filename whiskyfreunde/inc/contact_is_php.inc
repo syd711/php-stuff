@@ -47,7 +47,7 @@
 						$header .= "X-Mailer: PHP/" . phpversion(). "\n";          
 						$header .= "X-Sender-IP: website@frametexx.com\n"; 
 						$header .= "Content-Type: text/html"; 
-						$subject 	= "Kontaktmail von der Seite www.frametexx.com";
+						$subject 	= "Kontaktmail von der Seite www.test.com";
 						$emailBody  = "Name: " . $name;
 						$emailBody  = $emailBody . "<br>E-Mail: " . $email;
 						$emailBody	= $emailBody . "<br>Inhalt der Mail:\n<br>";
